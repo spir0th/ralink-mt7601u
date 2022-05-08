@@ -1,0 +1,9 @@
+# Built packages
+ralink-mt7601u-*.pkg.tar.zst
+
+# Linux source code
+linux-*.tar.xz
+
+# PKGBUILD build directories
+src
+pkg
